@@ -1,0 +1,15 @@
+model,condition,wins_both_primary_prefixes,significant_wins_both_primary,mean_nonnegative_all_nine_prefixes,curve_average_error_reduction,curve_average_p_holm
+TCN_aug,clean,False,False,False,-0.030638613426878198,0.13163408637046814
+TCN_aug,noise_20db,True,False,False,-0.001115081941717372,1.0
+TCN_aug,noise_10db,True,False,False,0.01608266780249505,0.46331167221069336
+TCN_aug,noise_5db,True,False,True,0.029626754929201967,0.023134231567382812
+TCN_aug,missing_10pct,False,False,False,-0.021931887481589394,0.5350656509399414
+TCN_aug,missing_30pct,False,False,False,-0.014742976451273381,1.0
+TCN_aug,missing_50pct,False,False,False,-0.012342585019729483,1.0
+TCN_aug_mask,clean,False,False,False,-0.030422028594007847,0.11259055137634277
+TCN_aug_mask,noise_20db,True,False,False,-0.0010017787213288025,1.0
+TCN_aug_mask,noise_10db,True,False,False,0.015755921943389237,0.46331167221069336
+TCN_aug_mask,noise_5db,True,False,True,0.029941334610365786,0.02021491527557373
+TCN_aug_mask,missing_10pct,False,False,False,-0.02194541657181954,0.5350656509399414
+TCN_aug_mask,missing_30pct,False,False,False,-0.014439223180791484,1.0
+TCN_aug_mask,missing_50pct,True,False,False,-0.011127185576662084,1.0

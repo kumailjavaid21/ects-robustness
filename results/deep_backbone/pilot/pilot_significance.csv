@@ -1,0 +1,11 @@
+condition,nominal_fraction,comparison,N,margin,p_raw,p_holm
+clean,0.5,C_l0 vs MiniRocket_aug,8,-0.0013252016942389162,1.0,1.0
+clean,0.6,C_l0 vs MiniRocket_aug,8,0.0011567241406175884,0.9453125,1.0
+missing_30pct,0.5,C_l0 vs MiniRocket_aug,8,0.008735959914025015,0.9453125,1.0
+missing_30pct,0.6,C_l0 vs MiniRocket_aug,8,0.011001246235873766,0.9453125,1.0
+missing_50pct,0.5,C_l0 vs MiniRocket_aug,8,0.005078411841405558,0.9453125,1.0
+missing_50pct,0.6,C_l0 vs MiniRocket_aug,8,0.004199320602983357,0.7421875,1.0
+noise_10db,0.5,C_l0 vs MiniRocket_aug,8,0.041871852052956085,0.015625,0.140625
+noise_10db,0.6,C_l0 vs MiniRocket_aug,8,0.04640761453522621,0.0078125,0.078125
+noise_5db,0.5,C_l0 vs MiniRocket_aug,8,0.04821210787705954,0.0234375,0.1875
+noise_5db,0.6,C_l0 vs MiniRocket_aug,8,0.054794219930961306,0.0234375,0.1875

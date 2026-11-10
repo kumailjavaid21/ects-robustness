@@ -1,0 +1,41 @@
+comparison,condition,accuracy_gain_mean,accuracy_gain_sd
+"shared minus independent, lambda=0",clean,-0.018203286888764592,0.010450638459467322
+"shared minus independent, lambda=0",missing_30pct,-0.02126992151186502,0.009131306703132768
+"shared minus independent, lambda=0",missing_50pct,-0.026013186265007843,0.008568396148078998
+"shared minus independent, lambda=0",noise_10db,-0.02098925490633985,0.0060970970477252475
+"shared minus independent, lambda=0",noise_5db,-0.02651875682823934,0.01068970397177568
+"progressive minus independent, lambda=0",clean,0.0014535677884075792,0.0005360591139433663
+"progressive minus independent, lambda=0",missing_30pct,0.0003484667390063714,0.0025584801379261585
+"progressive minus independent, lambda=0",missing_50pct,0.0008127315256365116,0.00479432510064922
+"progressive minus independent, lambda=0",noise_10db,-0.0020349732469697166,0.003990957539207036
+"progressive minus independent, lambda=0",noise_5db,-0.0008977425912060185,0.0023619297936518474
+"shared minus independent, lambda=0.1",clean,-0.016040879721776802,0.004597694027461512
+"shared minus independent, lambda=0.1",missing_30pct,-0.01722002681685053,0.0046764125868466976
+"shared minus independent, lambda=0.1",missing_50pct,-0.021730692313756583,0.005114987553417912
+"shared minus independent, lambda=0.1",noise_10db,-0.018345214719923453,0.003775707896797458
+"shared minus independent, lambda=0.1",noise_5db,-0.02463564544284004,0.0047001982725795605
+"progressive minus independent, lambda=0.1",clean,-0.0010906024765124603,0.003260900751928487
+"progressive minus independent, lambda=0.1",missing_30pct,-0.0015297803180248537,0.003621642677290319
+"progressive minus independent, lambda=0.1",missing_50pct,-0.0015741272409155588,0.004155416038798433
+"progressive minus independent, lambda=0.1",noise_10db,-0.0005008713846060764,0.006116295978286696
+"progressive minus independent, lambda=0.1",noise_5db,-0.001598015533035611,0.008004733177178877
+"consistency effect, shared",clean,0.002688361605298658,0.010980892408270174
+"consistency effect, shared",missing_30pct,0.0032725436718195684,0.01264947388536037
+"consistency effect, shared",missing_50pct,0.0034450738589457235,0.013305969972069375
+"consistency effect, shared",noise_10db,0.0012473716559813386,0.008422777420761762
+"consistency effect, shared",noise_5db,0.002085650682453558,0.01008427489039104
+"consistency effect, progressive",clean,-0.002018215826609176,0.004282635825346914
+"consistency effect, progressive",missing_30pct,-0.002655598080226149,0.005615175085616187
+"consistency effect, progressive",missing_50pct,-0.0032242788588576106,0.008927471057435701
+"consistency effect, progressive",noise_10db,0.0001374333319285817,0.00407894082536915
+"consistency effect, progressive",noise_5db,-0.0004977336447753332,0.004549782542074555
+"consistency effect, independent",clean,0.000525954438310864,0.0026694095831968417
+"consistency effect, independent",missing_30pct,-0.0007773510231949234,0.0010676066114278845
+"consistency effect, independent",missing_50pct,-0.00083742009230554,0.0015180378765347554
+"consistency effect, independent",noise_10db,-0.001396668530435059,0.0006835768166324113
+"consistency effect, independent",noise_5db,0.00020253929705425894,0.0026621845287729275
+"augmentation effect, shared lambda=0",clean,0.032860453019518655,0.008030013221161859
+"augmentation effect, shared lambda=0",missing_30pct,0.06203542781555826,0.008402701050425348
+"augmentation effect, shared lambda=0",missing_50pct,0.07631415642022553,0.010702087786621328
+"augmentation effect, shared lambda=0",noise_10db,0.11715171446237889,0.023444040159414113
+"augmentation effect, shared lambda=0",noise_5db,0.1183620207363984,0.021255958652142668
